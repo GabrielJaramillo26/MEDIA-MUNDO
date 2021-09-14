@@ -1,0 +1,30 @@
+<!DOCTYPE html> <!--documento tipo html-->
+<html> <!--inicio html-->
+
+	<head> <!--inicio cabeza-->
+		<meta charset=¨utf-8¨> <!--Lenguaje español-->
+		<meta name=¨description¨ content=¨mi primera pagina web¨> 
+		<meta name=¨keywords¨ content=¨pagina web, prueba html¨>
+
+	</head> <!--fin cabeza-->
+
+	<body> <!--inicio cuerpo-->
+		<IMG src="img/logo.png">
+		<h1>Media Mundo</h1>
+		<h2>OBJETIVO GENERAL</h2>
+		<p>Desarrollar una aplicación didáctica que enseñe los aspectos relevantes que se implementan en la media técnica,<br> por otra parte, también permite reforzar algunas competencias como lo es el pensamiento computacional.</p>
+		<h2>OBJETIVOS ESPECIFICOS</h2>
+		<p> 1. Definir las necesidades del cliente para identificar el problema y buscarle una solución al mismo.<br><br>
+ 2. Analizar las necesidades del cliente para alcanzar la meta de forma satisfactoria.<br><br>
+ 3. Diseñar prototipos que contribuyan a la buena estética y buen desarrollo de la herramienta.<br><br>
+ 4. Codificar la aplicación para obtener una herramienta funcional y actualizable.<br><br>
+ 5. Probar los códigos utilizados para verificar que no haya error.<br><br>
+ 6. Validar la herramienta con ayuda del cliente para descartar cualquier tipo de anomalía en la misma.<br><br>
+ 7. Actualizar la herramienta, dando nuevas características y darles solución a posibles errores.</p>
+		<a href="alcance.html">alcance</a><br>
+		<a href="creditos.html">creditos</a><br>
+		<a href="index.html">Pagina principal</a>
+
+	</body> <!--fin cuerpo-->
+
+</html>
