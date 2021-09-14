@@ -1,0 +1,26 @@
+<!DOCTYPE html> <!--documento tipo html-->
+<html> <!--inicio html-->
+
+	<head> <!--inicio cabeza-->
+		<meta charset=¨utf-8¨> <!--Lenguaje español-->
+		<meta name=¨description¨ content=¨mi primera pagina web¨> 
+		<meta name=¨keywords¨ content=¨pagina web, prueba html¨>
+
+	</head> <!--fin cabeza-->
+
+	<body> <!--inicio cuerpo-->
+		<IMG src="img/logo.png">
+		<h1>Media Mundo</h1>
+		<h2>ALCANCE</h2>
+		<p>La herramienta didáctica “Mediamundo” orientará y evaluará los conocimientos previos con 3 distintos niveles.<br><br>
+El primer nivel consta en golpear el cubo con el interrogante, este soltara una pregunta de selección múltiple al azar, si es respondida de manera correcta, el puente que hay en medio se abrirá, si falla en la respuesta, se cambiará por otra, y así sucesivamente hasta que el usuario logre responder correctamente.<br><br>
+El segundo nivel consiste en completar la oración del significado de un algoritmo con el fin de que el usuario obtenga un conocimiento general sobre algoritmos, el cual se logra al completar la oración, aparece un trampolín para saltar hacia el checkpoint y asegurar los niveles anteriores.<br><br>
+El tercer nivel consta de una puerta que se abrirá cuando la operación que el juego se ejecute. La operación consiste en un arrastra y pega para completar un algoritmo y lograr atravesar una serie de obstáculos y llegar al siguiente nivel.</p>
+		<a href="alcance.html">alcance</a><br>
+		<a href="creditos.html">creditos</a><br>
+		<a href="objetivos.html">objetivos</a><br>
+		<a href="index.html">pagina principal</a>
+
+	</body> <!--fin cuerpo-->
+
+</html>
