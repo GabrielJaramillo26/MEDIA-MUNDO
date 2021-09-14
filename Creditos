@@ -1,0 +1,30 @@
+<!DOCTYPE html> <!--documento tipo html-->
+<html> <!--inicio html-->
+
+	<head> <!--inicio cabeza-->
+		<meta charset=¨utf-8¨> <!--Lenguaje español-->
+		<meta name=¨description¨ content=¨mi primera pagina web¨> 
+		<meta name=¨keywords¨ content=¨pagina web, prueba html¨>
+
+	</head> <!--fin cabeza-->
+
+	<body> <!--inicio cuerpo-->
+		<IMG src="img/logo.png">
+		<h1>Media Mundo</h1>
+		<h2>CREDITOS</h2>
+		<h3>Gabriel Adolfo Jaramillo Marín</h3><br>
+		<h2>Descripcion:</h2>
+		<p>Soy Gabriel, tengo 15 años, actualmente estoy estudiando una Media Tecnica en desarrollo de software, y estoy interesado en el mundo de la programacion</p><br>
+		<h3>Fabian Enrique Herrera Martinez</h3><br>
+		<h2>Descripcion:</h2>
+		<p>Soy Fabian, tengo 15 años, actualmente estoy cursando una Media Técnica en Desarrollo de Software,<br> estoy muy interesado en el mundo de la programación y lo que mas me gusta hacer en la Media Técnica es Programar y cada dia aprender algo nuevo sobre ello</p><br>
+		<h3>Juan Pablo Mejia Tuberquia</h3><br>
+		<h2>Descripcion:</h2>
+		<p>Soy un chico de 15 años apasionado por todo el mundo de la tecnologia y todo lo que no se ve de esta misma como lo es la programación,<br> por esto me intereso la media tecnica en desarrollo de software</p></p><br>
+		<a href="alcance.html">alcance</a><br>
+		<a href="index.html">Pagina principal</a><br>
+		<a href="objetivos.html">objetivos</a>
+
+	</body> <!--fin cuerpo-->
+
+</html>
