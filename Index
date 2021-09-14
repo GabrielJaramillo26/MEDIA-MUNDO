@@ -1,0 +1,22 @@
+<!DOCTYPE html> <!--documento tipo html-->
+<html> <!--inicio html-->
+
+	<head> <!--inicio cabeza-->
+		<meta charset=¨utf-8¨> <!--Lenguaje español-->
+		<meta name=¨description¨ content=¨mi primera pagina web¨> 
+		<meta name=¨keywords¨ content=¨pagina web, prueba html¨>
+
+	</head> <!--fin cabeza-->
+
+	<body> <!--inicio cuerpo-->
+		<IMG src="img/logo.png">
+		<h1>Media Mundo</h1>
+		<h2>DESCRIPCIÓN DEL PROBLEMA</h2>
+		<p>En la Institución Educativa Francisco Antonio Zea es impartida la Media Técnica en desarrollo de software, en los grados décimo y once.<br> Se ha evidenciado la desinformación en la mayoría de estudiantes, no tienen información amplia sobre las competencias que se desarrollan<br> en la media técnica por lo que optan no iniciar el proceso, para ello se han creado proyectos para motivar a los estudiantes a vivir esta nueva experiencia.</p>
+		<a href="alcance.html">alcance</a><br>
+		<a href="creditos.html">creditos</a><br>
+		<a href="objetivos.html">objetivos</a>
+
+	</body> <!--fin cuerpo-->
+
+</html>
